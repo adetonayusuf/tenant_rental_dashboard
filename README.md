@@ -83,4 +83,24 @@ Project Scope
  - Data Transformation: Prepare the data for analysis by transforming, encoding, or normalizing it. 
  - Data Analysis: Analyze data to understand pattern in order to generate insights that will be visualized. 
  - Data Visualization: Create visual representations to communicate insights effectively. 
- - Interpretation and Insight Generation: Extract meaningful insights and interpret the results. 
+ - Interpretation and Insight Generation: Extract meaningful insights and interpret the results.
+
+   Actions
+- Imported the above tables into Power query no cleaning needed on any of the table.
+- Merged tenant information & feedback to tenant feedback table to form tenant information & feedback table
+- Merged lease details and tenant information & feedback to form lease details table.
+- Load the tables into power Bi
+
+  ![Tenant Power Query](https://github.com/adetonayusuf/tenant_rental_dashboard/blob/main/Tenant%20-%20Power%20query.png)
+  
+  - After importing the data into Power BI, I then created date tables
+  - Modelled the tables using star schema
+
+  ![Tenant Data Modelling](https://github.com/adetonayusuf/tenant_rental_dashboard/blob/main/Tenant%20Data%20Modelling.png)
+
+  - Created some measures that will help with detailed analysis like churn rate, Total Payment Histoty, Churned Leases, Rent Collection Performance Etc
+  - We created the dashboard below base on the analysis above
+ 
+     ![Tenant Retention Dashboard](https://github.com/adetonayusuf/tenant_rental_dashboard/blob/main/Tenant%20Retention%20Dashboard.png)
+
+
