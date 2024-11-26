@@ -104,3 +104,33 @@ Project Scope
      ![Tenant Retention Dashboard](https://github.com/adetonayusuf/tenant_rental_dashboard/blob/main/Tenant%20Retention%20Dashboard.png)
 
 
+    Insights
+    
+   - Seasonal and Trend-Based Churn Patterns: The line chart of churn rate by month reveal seasonal patterns or specific times of the year when churn rates
+     spike, indicating periods where targeted retention efforts could be most benefcial
+
+   - Lease Term Preferences and Their Impact on Retention: The frequency distribution of lease terms highlights tenant preferences, showing whether shorter or
+     longer leases correlate with higher retention rates, suggesting adjustments to lease offerings.
+
+   - Direct Correlation Between Tenant Satisfaction and Retention: Analysis from the bar chart showing satisfaction scores and the combo chart correlating
+     churn status with satisfaction scores by property type provide concrete evidence that higher satisfaction levels are crucial for reducing churn rates
+
+   - Financial Efficiency and Its Role in Overall Property Performance: Rent collection performance insights can highlight operational efficiencies or issues
+     affecting the company's financial health and its ability to invest in property improvements and tenant services.
+
+   - Effectiveness of Renewal Strategies Over Time: The comparison of renewed versus expired leases over time can indicate the success of recent retention
+     strategies or highlight the need for new approaches.
+
+    Recommendations
+  
+   - Implement Targeted Retention Programs: Based on identified churn patterns, develop targeted retention programs during high-risk perlods, such as
+     personalized communication, special offers, or community events to engage tenants.
+     
+   - Adjust Lease Terms to Meet Tenant Preferences: If certain lease lengths correlate with higher retention, consider offering more fiexible or preferred lese
+     terms to new and renewing tenants to encourage longer stays.
+     
+   - Enhance Tenant Satistaction: Prioritize improvements in areas directly impacting tenant satisfaction, as identified through survey responses. This could
+     include property amenities, maintenance responsiveness, and community-building efforts.
+     
+   - Optimize Financial Operations. Address any identified inefficiencies in rent collection to improve financial stability. Consider implementing technology
+     solutions for easier payment processes or offering incentives for on-time payments.
