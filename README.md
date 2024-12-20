@@ -90,18 +90,24 @@ Project Scope
 - Merged tenant information & feedback to tenant feedback table to form tenant information & feedback table
 - Merged lease details and tenant information & feedback to form lease details table.
 - Load the tables into power Bi
+  
 
   ![Tenant Power Query](https://github.com/adetonayusuf/tenant_rental_dashboard/blob/main/Tenant%20-%20Power%20query.png)
   
+  
   - After importing the data into Power BI, I then created date tables
   - Modelled the tables using star schema
+    
 
   ![Tenant Data Modelling](https://github.com/adetonayusuf/tenant_rental_dashboard/blob/main/Tenant%20Data%20Modelling.png)
+  
 
   - Created some measures that will help with detailed analysis like churn rate, Total Payment Histoty, Churned Leases, Rent Collection Performance Etc
   - We created the dashboard below base on the analysis above
+    
  
-     ![Tenant Retention Dashboard](https://github.com/adetonayusuf/tenant_rental_dashboard/blob/main/Tenant%20Retention%20Dashboard.png)
+  ![Tenant Retention Dashboard](https://github.com/adetonayusuf/tenant_rental_dashboard/blob/main/Tenant%20Retention%20Dashboard.png)
+  
 
 
     Insights
